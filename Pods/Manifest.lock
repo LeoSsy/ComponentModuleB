@@ -1,0 +1,26 @@
+PODS:
+  - BLSettingCell (1.3.5):
+    - Masonry
+    - SDWebImage
+  - Masonry (1.1.0)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+
+DEPENDENCIES:
+  - BLSettingCell
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - BLSettingCell
+    - Masonry
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  BLSettingCell: 3f7d847f4239bc44a379f61637407bfc2fc50249
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+
+PODFILE CHECKSUM: 6f6da418427557749434f903f12d7412b50ab91e
+
+COCOAPODS: 1.5.3
