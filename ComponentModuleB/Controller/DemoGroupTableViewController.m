@@ -7,7 +7,7 @@
 //
 
 #import "DemoGroupTableViewController.h"
-#import <BLSetting.h>
+#import "BLSetting.h"
 #import "YYFPSLabel.h"
 
 @interface DemoGroupTableViewController ()

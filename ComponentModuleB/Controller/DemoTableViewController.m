@@ -7,7 +7,7 @@
 //
 
 #import "DemoTableViewController.h"
-#import <BLSetting.h>
+#import "BLSetting.h"
 #import "YYFPSLabel.h"
 
 @interface DemoTableViewController ()
