@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'ComponentModuleB'
-s.version          = '1.0.3'
+s.version          = '1.0.4'
 s.summary          = '这是业务模块A 组件'
 
 # This description is used to generate tags and improve search results.
@@ -30,6 +30,8 @@ s.subspec 'Target' do |ss|
 ss.source_files = "ComponentModuleB/Target/*.{h,m}"
 ss.dependency "ComponentModuleB/Controller"
 end
+
+s.dependency "BLSettingCell"   #依赖关系，该项目所依赖的其他库
 
 end
 
