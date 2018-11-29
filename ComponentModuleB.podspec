@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = 'ComponentModuleB'
-s.version          = '1.0.1'
+s.version          = '1.0.2'
 s.summary          = '这是业务模块A 组件'
 
 # This description is used to generate tags and improve search results.
